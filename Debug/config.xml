@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<ethernet>
+		<port>
+			ethernet portname
+		</port>
+	</ethernet>
+
+	<rs>
+		<port>
+			rs portname
+		</port>
+	</rs>
+</configuration>
